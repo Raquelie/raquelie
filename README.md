@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" width="22px" alt="Instagram"/>](https://www.instagram.com/raquelieb)
 
-## Tech stack
+### Tech stack
 
 - Python
 - R
