@@ -1,8 +1,8 @@
 ## Hi there, I am Raquel 
 
 - Data Engineer @ [Numan](numan.com)
-- Academic tutor @ [MSc Data Science UOC](https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion)
-- Available for freelancing, contact me!
+- Mentor @ [MSc Data Science UOC](https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion)
+- Contact me for freelancing
 
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/github.svg" width="22px" alt="GitHub"/>](https://github.com/raquelie)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,6 +12,7 @@
 
 ### Tech stack
 
-- Python
-- R
-- SQL
+- Data Science & Data Engineering: Python (pyspark, scikit-learn, numpy, keras), R (ggplot2, caret)
+- Cloud: Azure, GCP, Databricks
+- Databases: Snowflake, DeltaLake, BigQuery, MySQL, Postgresql, Oracle...
+- Other: Scrum, Docker
