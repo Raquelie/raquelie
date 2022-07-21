@@ -12,7 +12,13 @@
 
 ### Tech stack
 
-- Data Science & Data Engineering: Python (pyspark, scikit-learn, numpy, keras), R (ggplot2, caret)
+- Data Science & Data Engineering: Python (pyspark, scikit-learn, numpy, pandas, keras), R (ggplot2, caret)
 - Cloud: Azure, GCP, Databricks
-- Databases: Snowflake, DeltaLake, BigQuery, MySQL, Postgresql, Oracle...
+- Databases: Snowflake, DeltaLake, BigQuery, MySQL, Postgresql, Oracle, MongoDB...
 - Other: Scrum, Docker
+
+### Interested in
+
+- Sports: calisthenics, pole dance, yoga, rock climbing
+- Sustainability
+- Food
