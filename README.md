@@ -9,6 +9,8 @@
 [<img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/raquelorallo)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" width="22px" alt="Instagram"/>](https://www.instagram.com/raquelieb)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="22px" alt="Telegram"/>](t.me/raquelie)
 
 ### Tech stack
 
