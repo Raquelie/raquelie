@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" width="22px" alt="Instagram"/>](https://www.instagram.com/raquelieb)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="22px" alt="Telegram"/>](t.me/raquelie)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="22px" alt="Telegram"/>](https://t.me/raquelie)
 
 ### Tech stack
 
