@@ -1,6 +1,6 @@
 ## Hi there, I'm Raquel 
 
-- Data Engineer @ [Numan](numan.com)
+- Data Engineer @ [Numan](http://www.numan.com)
 - Mentor @ [MSc Data Science UOC](https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion)
 - Contact me for freelancing
 
