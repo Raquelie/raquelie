@@ -2,6 +2,7 @@
 
 - Data Engineer @ [Numan](http://www.numan.com)
 - Mentor @ [MSc Data Science UOC](https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion)
+- Instructor @ [KeepCoding](https://keepcoding.io/nuestros-bootcamps/full-stack-big-data-machine-learning-bootcamp/)
 - Contact me for freelancing
 
 [<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png" width="22px" alt="LinkedIn"/>](https://www.linkedin.com/in/raquelorallo)
