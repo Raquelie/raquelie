@@ -13,7 +13,7 @@
 
 ### Tech stack
 
-- Data Science & Data Engineering: Python (pyspark, scikit-learn, numpy, pandas, keras), R (ggplot2, caret)
+- Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas, keras), R (ggplot2, caret), SQL
 - Cloud: Azure, GCP, Databricks
 - Databases: Snowflake, DeltaLake, BigQuery, MySQL, Postgresql, Oracle, MongoDB...
 - Other: Scrum, Docker
