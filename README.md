@@ -11,7 +11,7 @@
 
 ### Tech stack
 
-- Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas, keras, dbt), R (ggplot2, caret), SQL, Dagster
+- Data Engineering & Data Science : Python (pyspark, scikit-learn, numpy, pandas, keras, dbt), SQL, Dagster
 - Cloud: Azure, GCP, Databricks
 - Databases: Snowflake, DeltaLake, BigQuery, MySQL, Postgresql, Oracle, MongoDB...
 - Other: Scrum, Docker
